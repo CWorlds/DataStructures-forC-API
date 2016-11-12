@@ -1,0 +1,7 @@
+.idea/
+CMakeLists.txt
+*.o
+*.a
+*~
+.DS_Store
+*.sh
